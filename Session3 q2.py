@@ -1,5 +1,4 @@
 import random
-
 while True:
     b = input("to roll the dice enter r")
     if b == "r":
